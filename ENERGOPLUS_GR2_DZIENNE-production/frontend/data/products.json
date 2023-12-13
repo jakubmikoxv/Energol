@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Monster Energy",
+    "variant": "Nitro cosmic peach",
+    "volume": 500,
+    "price": 5.10,
+    "description": "Brzoskwiniowy o lekkiej i wytrawnej konsystencji przypominającej szlachetnego szampana",
+    "images": [
+      "https://web-assests.monsterenergy.com/mnst/01de7f73-459d-4c72-b960-b533a815c10a.webp",
+      ""
+    ]
+  },
+  {
+    "name": "Monster Energy",
+    "variant": "Original",
+    "volume": 500,
+    "price": 5.10,
+    "description": "Słodki i słony - Smakuje jak Monster!",
+    "images": [
+      "https://web-assests.monsterenergy.com/mnst/d81f8856-2aa6-4216-ae42-5a22ffc9d54f.webp",
+      ""
+    ]
+  },
+  {
+    "name": "Monster Energy",
+    "variant": "AUSSIE STYLE LEMONADE",
+    "volume": 500,
+    "price": 5.10,
+    "description": "Egzotyczna Lemoniada",
+    "images": [
+      "https://web-assests.monsterenergy.com/mnst/aaeda9b2-ab5d-4d45-a45d-a2fad34008e1.webp",
+      ""
+    ]
+  },
+  {
+    "name": "Monster Energy",
+    "variant": "Nitro super dry",
+    "volume": 500,
+    "price": 5.10,
+    "description": "Odświeżająco cytrusowy",
+    "images": [
+      "https://web-assests.monsterenergy.com/mnst/8c1b0587-6b1b-423c-b781-e935e07ab92d.webp",
+      ""
+    ]
+  },
+
+  {
+    "name": "Monster Energy",
+    "variant": "Ultra Peachy bez cukru",
+    "volume": 500,
+    "price": 5.10,
+    "description": "Orzeźwiająca Brzoskwinia",
+    "images": [
+      "https://web-assests.monsterenergy.com/mnst/cd3b75f9-9d33-4b82-93bb-f1d283ecfd3d.webp",
+      ""
+    ]
+  }
+  {
+    "name": "Burn",
+    "variant": "Zero Watermelon",
+    "volume": 250,
+    "price": 3.99,
+    "description": "Zero cukru, orzeźwiający arbuz!",
+    "images": [
+      "https://burn.com/media/uploads_image/2023/04/05/auto/740/2b091a01ab76353266def59afe179976.png?mod=v1_0ea7000c07ae165a9e1d2df9b593276e",
+      ""
+    ]
+  },
+  {
+    "name": "Burn",
+    "variant": "Original",
+    "volume": 250,
+    "price": 3.89,
+    "description": "Stworzyliśmy unikalną formułę o orzeźwiającym smaku, która dostarcza odpowiednią dawkę energii i pozwala żyć intensywniej.",
+    "images": [
+      "https://burn.com/media/uploads_image/2022/01/26/auto/740/5362b38900b00ffc974bbf9d882b3cb8.png?mod=v1_04070aaab8bf90f752b8c7ffc43f3e59",
+      ""
+    ]
+  },
+  {
+    "name": "Burn",
+    "variant": "Apple Kiwi",
+    "volume": 250,
+    "price": 3.99,
+    "description": "Owocowa mieszanka smaku jabłka i kiwi wzbogacona o unikalny aromat Burn Energy.",
+    "images": [
+      "https://burn.com/media/uploads_image/2022/01/26/auto/740/635c3c90d09334ea8f27190684b25d23.png?mod=v1_04070aaab8bf90f752b8c7ffc43f3e59",
+      ""
+    ]
+  },
+  {
+    "name": "Burn",
+    "variant": "PEACH",
+    "volume": 500,
+    "price": 5.10,
+    "description": "Nowy, orzeźwiający, energetyczny, o smaku soczystej brzoskwini! Z dodatkiem tauryny, kofeiny ale zupełnie BEZ dodatku cukru to wyjątkowy sposób na doładowanie swojej energii!",
+    "images": [
+      "https://burn.com/media/uploads_image/2020/08/24/auto/740/29d13a689d1800ff1f0a2e566f3c663d.png?mod=v1_04070aaab8bf90f752b8c7ffc43f3e59",
+      ""
+    ]
+  },
+
+  {
+    "name": "Burn",
+    "variant": "Fruit Punch",
+    "volume": 250,
+    "price": 4.20,
+    "description": "Pełnia smaku i owocowe uderzenie od BURN Energy.",
+    "images": [
+      "https://burn.com/media/uploads_image/2022/08/31/auto/740/93d340087df5ac7f39dc3f8c4b8fda34.png?mod=v1_04070aaab8bf90f752b8c7ffc43f3e59",
+      ""
+    ]
+  },
+  {
+    "name": "Tiger Energy Drink",
+    "variant": "HYPER SPLASH",
+    "volume": 500,
+    "price": 3.59,
+    "description": "TIGER HYPER SPLASH to smak lekkiej tropikalnej bryzy BEZ DODATKU CUKRU!",
+    "images": [
+      "https://i.iplsc.com/000DP9UO337SFO7W-C128.jpeg",
+      ""
+    ]
+  },
+  {
+    "name": "Tiger Energy Drink",
+    "variant": "Bubble Gum",
+    "volume": 500,
+    "price": 4.29,
+    "description": "Kiedy w 1848 roku powstał pierwszy wielki balon z gumy balonowej, już było wiadomo, że coś się dzieje!",
+    "images": [
+      "https://www.carrefour.pl/images/product/350x350/tiger-bubble-gum-gazowany-napoj-energetyzujacy-500-ml-3idccf.jpg",
+      ""
+    ]
+  },
+  {
+    "name": "Tiger Energy Drink",
+    "variant": "Max Mango",
+    "volume": 250,
+    "price": 2.49,
+    "description": "Gazowany napój energetyzujący o smaku mango z kofeiną i witaminami. Pasteryzowany. Zawiera cukier i substancje słodzące.",
+    "images": [
+      "https://www.carrefour.pl/images/product/350x350/tiger-win-gazowany-napoj-energetyzujacy-o-smaku-mango-250-ml-pntu27.jpg",
+      ""
+    ]
+  },
+  {
+    "name": "Tiger Energy Drink",
+    "variant": "UFO Kaktus",
+    "volume": 500,
+    "price": 3.29,
+    "description": "Chodzą słuchy, że ten kosmiczny smak został odkryty w 1947 roku przy okazji pewnego incydentu na pustyni kaktusowej w Arizonie. W wyniku tajnych eksperymentów nad nowym pierwiastkiem i dodaniu szczypty POWERA powstała pozaziemska mikstura. Całość została dopełniona kaktusowym szaleństwem.",
+    "images": [
+      "https://selgros24.pl/images/prodImages/Tiger_Tiger_Ufo_Gazowany_napoj_energetyzujacy_o_smaku_kaktusa_500_ml_20877213_0_350_350.jpg",
+      ""
+    ]
+  },
+  {
+    "name": "Tiger Energy Drink",
+    "variant": "Light Flow Cherry Mix",
+    "volume": 330,
+    "price": 2.85,
+    "description": "TIGER Light Flow Cherry Mix owocowy napój energetyzujący",
+    "images": [
+      "https://www.pakomarket.pl/wp-content/uploads/TIGER-Light-Flow-Cherry-Mix-Napoj-Energetyzujacy-330ml-min.png",
+      ""
+    ]
+  },{
+  "name": "RedBull",
+  "variant": "Orginal",
+  "volume": 250,
+  "price": 5.99,
+  "description": "Ożywia ciało i umysł",
+  "images": [
+    "https://www.redbull.com/energydrink/v1/resources/contentful/images/lcr8qbvxj7mh/4e5eSCxix7lyRPoN7L3gmw/21363f2c5bac103a91718ae4274fd13d/PL_RBED_250_Single-Unit_close_cold_ORIGINAL_canwidth528px.png?w=210&fm=webp&q=90",
+    ""
+  ]
+},
+  {
+    "name": "RedBull",
+    "variant": "Zero",
+    "volume": 250,
+    "price": 5.99,
+    "description": "0% cukru.100% skrzyyydeł.",
+    "images": [
+      "https://www.redbull.com/energydrink/v1/resources/contentful/images/lcr8qbvxj7mh/0HM6BPL83sO0GYwnZh4ry/c01292c6e1c313283626a54f37746e26/PL_ZERO-250ml_cold_closed_001_PCS.png?w=320&fm=webp&q=90",
+      ""
+    ]
+  },
+  {
+    "name": "RedBull",
+    "variant": "Sugarfree",
+    "volume": 250,
+    "price": 5.99,
+    "description": "Skrzyyydła w wersji Sugarfree.",
+    "images": [
+      "https://www.redbull.com/energydrink/v1/resources/contentful/images/lcr8qbvxj7mh/4Od9QqIqAzm0KAXGOGqgoY/ec0f7dc2598372885a2126044ad0bbe8/PL_RBSF_250_Single-Unit_close_cold_ORIGINAL_canwidth528px.png?w=320&fm=webp&q=90",
+      ""
+    ]
+  },
+  {
+    "name": "RedBull",
+    "variant": "Winter_Edition",
+    "volume": 500,
+    "price": 5.99,
+    "description": "Twoje zimowe skrzydła",
+    "images": [
+      "https://www.redbull.com/energydrink/v1/resources/contentful/images/lcr8qbvxj7mh/3QOEkfE940mvrkG9jMkprR/b4ac4c3da257470730075da81047d931/DRES_PL_WINTER-Pear-Cinnamon-250ml_ambient_front_redbullcom.png?w=175&fm=webp&q=90",
+      ""
+    ]
+  },
+
+  {
+    "name": "RedBull",
+    "variant": "Purple_Edition",
+    "volume": 250,
+    "price": 5.99,
+    "description": "RedBull Purple Edition, bez cukru, o wujątkowym smaku egzotycznej jagody Acai.",
+    "images": [
+      "https://www.redbull.com/energydrink/v1/resources/contentful/images/lcr8qbvxj7mh/5SJbDfPq3TY1KpB7l1kZTF/97facc3c3149d943990ed5b09c3d8051/DRES_PL_PURPLE-SF-250ml_ambient_front_redbullcom.png?w=175&fm=webp&q=90",
+      ""
+    ]
+  }, {
+  "name": "Black",
+  "variant": "Classic",
+  "volume": 250,
+  "price": 2.59,
+  "description": "Lider na rynku energetyków w Polsce! Tauryna i kofeina, zapewniają błyskawiczny zastrzyk energii, który pozwoli Ci osiągnąć, co tylko chcesz - zawsze o krok przed innymi. Z BLACK MOŻESZ WIĘCEJ.",
+  "images": [
+    "https://www.blackenergydrink.com/upload/produkty/1683985019.png",
+    ""
+  ]
+},
+  {
+    "name": "Black",
+    "variant": "ZERO",
+    "volume": 250,
+    "price": 2.49,
+    "description": "Klasyczny smak energetyka i zawsze niezawodne działanie, a wszystko bez zbędnych kalorii. Lekki i mocno energetyczny, właśnie taki jest Black Energy Zero Sugar!",
+    "images": [
+      "https://www.blackenergydrink.com/upload/produkty/1683984647.png",
+      ""
+    ]
+  },
+  {
+    "name": "Black",
+    "variant": "Strawberry",
+    "volume": 250,
+    "price": 2.59,
+    "description": "Energetyczna truskawka to smak obok którego nie można przejść obojętnie. Klasyczna dawka energii i witamin zmiksowana z wyszukanym smakiem, to niebanalna propozycja dzikiej zabawy. Spróbuj!",
+    "images": [
+      "https://www.blackenergydrink.com/upload/produkty/1683984532.png",
+      ""
+    ]
+  },
+  {
+    "name": "Black",
+    "variant": "Mojito Juice Blast",
+    "volume": 500,
+    "price": 4.59,
+    "description": "Szykowne połączenie soku, smaków limonki oraz mięty, kipiące energią gotową do uwolnienia w najważniejszym dla Ciebie momencie. Teraz masz wszystko by ruszyć do akcji!",
+    "images": [
+      "https://www.blackenergydrink.com/upload/produkty/1683985876.png",
+      ""
+    ]
+  },
+
+  {
+    "name": "Black",
+    "variant": "Sex Energy ZERO",
+    "volume": 250,
+    "price": 3.49,
+    "description": "Ten energetyczny afrodyzjak pobudza ciało i zmysły. Wyjątkowy smak dodaje przyjemności, a odpowiednia dawka energii pozwoli utrzymać aktywność. Feel the sex energy! Nie zawiera cukrów, zawiera substancje słodzące."
+    "images": [
+      "https://www.blackenergydrink.com/upload/produkty/1683984693.png",
+      ""
+    ]
+  },  {
+  "name": "Tiger",
+  "variant": " Magic Forest",
+  "volume": 330,
+  "price": 4.80,
+  "description": "Odkryj MAGIC FOREST przyczajony w zaułkach zaczarowanego lasu.",
+  "images": [
+    "https://snamix.com/12564-large_default/tiger-magic-forest-energy-drink.jpg",
+    ""
+  ]
+},
+  {
+    "name": "Tiger",
+    "variant": "StarDust",
+    "volume": 330,
+    "price": 4.80,
+    "description": "Odkryj kosmiczny STAR DUST wprost z głębi galaktyki tygrysa.",
+    "images": [
+      "https://snamix.com/12563-large_default/tiger-stardust-energy-drink.jpg",
+      ""
+    ]
+  },
+  {
+    "name": "Tiger",
+    "variant": "Headshock Kwaśne Jabłko",
+    "volume": 150,
+    "price": 2.99,
+    "description": "Orzeźwiający napój energetyczny, który zachwyca intensywnym smakiem soczystych, kwaśnych jabłek.",
+    "images": [
+      "https://snamix.de/12511-large_default/tiger-head-shock-sour-apple-energy-drink.jpg",
+      ""
+    ]
+  },
+  {
+    "name": "Tiger",
+    "variant": "Headshock Kwaśne Mango",
+    "volume": 150,
+    "price": 2.99,
+    "description": "Ekscytujący napój energetyczny, który wabi intensywnym smakiem soczystego mango o wyrazistym charakterze.",
+    "images": [
+      "https://snamix.de/12510-thickbox_default/tiger-head-shock-sour-mango-energy-drink.jpg",
+      ""
+    ]
+  },
+
+  {
+    "name": "Tiger",
+    "variant": "Rebel Tea",
+    "volume": 500,
+    "price": 4.99,
+    "description": "Gazowany owocowo-herbaciany napój energetyzujący o smaku jagody z mlekiem z dodatkiem kofeiny i witamin.",
+    "images": [
+      "https://ecsmedia.pl/cdn-cgi/image/format=webp,width=544,height=544,/c/tiger-napoj-gazowany-energetyzujacy-rebel-tea-500-ml-b-iext124949779.jpg",
+      ""
+    ]
+  },
+  {
+    "name": "Black",
+    "variant": "Original",
+    "volume": 500,
+    "price": 5.19,
+    "description": "Klasyczna energia w dużym formacie. Kiedy okoliczności wymagają od Ciebie skupienia i mocy do szybkiego działania, nie wahaj się i sięgnij po sprawdzone wsparcie.",
+    "images": [
+      "https://www.blackenergydrink.com/upload/produkty/1683985906.png",
+      ""
+    ]
+  },
+  {
+    "name": "Black",
+    "variant": "Wild Strawberry Zero Sugar",
+    "volume": 500,
+    "price": 5.19,
+    "description": "Energetyczna poziomka, to oryginał obok którego nie można przejść obojętnie. Klasyczna dawka energii i witamin zmiksowana z wyszukanym smakiem. Niebanalna propozycja dzikiej zabawy. Spróbuj! 20% soku, 100% mocy. Topowa receptura Zero Sugar Added.",
+    "images": [
+      "https://www.blackenergydrink.com/upload/produkty/1683985582.png",
+      ""
+    ]
+  },
+  {
+    "name": "Black",
+    "variant": "Sex Energy",
+    "volume": 250,
+    "price": 3.49,
+    "description": "Ten energetyczny afrodyzjak pobudza ciało i zmysły. Wyjątkowy smak pitahaya/ grenadina/ limetka dodaje przyjemności, a odpowiednia dawka energii pozwoli utrzymać aktywność. Feel the sex energy!",
+    "images": [
+      "https://www.blackenergydrink.com/upload/produkty/1683984458.png",
+      ""
+    ]
+  },
+  {
+    "name": "Black",
+    "variant": "Mojito",
+    "volume": 500,
+    "price": 5.19,
+    "description": "Szykowne połączenie soku, smaków limonki oraz mięty, kipiące energią gotową do uwolnienia w najważniejszym dla Ciebie momencie. Teraz masz wszystko by ruszyć do akcji!",
+    "images": [
+      "https://www.blackenergydrink.com/upload/produkty/1683985876.png",
+      ""
+    ]
+  },
+
+  {
+    "name": "Oshee Wiedźmin ",
+    "variant": "Jaskółka",
+    "volume": 500,
+    "price": 4.59,
+    "description": "Energetyzujący napój gazowany o smaku mango i chilli, wzbogacony o witaminy i kofeinę, które dostarczą Ci energii na cały dzień i zmotywują do działania.",
+    "images": [
+      "https://ecsmedia.pl/c/oshee-wiedzmin-energy-drink-jaskolka-500ml-b-iext124578349.jpg",
+      ""
+    ]
+  },
+
+
+
+
+]
